@@ -44,7 +44,6 @@ namespace DataParser.Repository
             modelBuilder.Entity<claim_staging>().Property(p => p.orm_indicator).HasColumnType("char(1)");
             modelBuilder.Entity<claim_staging>().Property(p => p.tin).HasColumnType("char(9)");
             modelBuilder.Entity<claim_staging>().Property(p => p.ip_mbi).HasColumnType("varchar(12)");
-            ////modelBuilder.Entity<claim_staging>().Property(p => p.ip_hicn).HasColumnType("varchar(12)");
             modelBuilder.Entity<claim_staging>().Property(p => p.ip_ssn).HasColumnType("char(9)");
             modelBuilder.Entity<claim_staging>().Property(p => p.ip_last_name).HasColumnType("varchar(40)");
             modelBuilder.Entity<claim_staging>().Property(p => p.ip_first_name).HasColumnType("varchar(30)");
