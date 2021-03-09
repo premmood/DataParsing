@@ -27,9 +27,5 @@
         None,
         RREErr,//RRE Id supplied in Claim input file is not yet registered in the system. 
         TINErr,//Combination of TIN and Office Code supplied in Claim input file is not yet registered in the system. 
-        ActnErr,//Action Type other than 'ONHOLD', 'DELETE' and 'SUMBIT'.
-        FrmtErr,//When field doesn't match the defined format or exceed the max length.
-        DupErr,//File should contain single record for unique combination ClaimControllNumber, RREId, AccountId, TIN, Office code/Site Id.
-        InvCLMErr//Blank, Null or Space in ClaimControllNumber. 
     }
 }

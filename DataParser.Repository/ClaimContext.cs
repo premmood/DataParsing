@@ -44,7 +44,6 @@ namespace DataParser.Repository
             modelBuilder.Entity<claim_staging>().Property(p => p.orm_indicator).HasColumnType("char(1)");
             modelBuilder.Entity<claim_staging>().Property(p => p.tin).HasColumnType("char(9)");
             modelBuilder.Entity<claim_staging>().Property(p => p.ip_mbi).HasColumnType("varchar(12)");
-            ////modelBuilder.Entity<claim_staging>().Property(p => p.ip_hicn).HasColumnType("varchar(12)");
             modelBuilder.Entity<claim_staging>().Property(p => p.ip_ssn).HasColumnType("char(9)");
             modelBuilder.Entity<claim_staging>().Property(p => p.ip_last_name).HasColumnType("varchar(40)");
             modelBuilder.Entity<claim_staging>().Property(p => p.ip_first_name).HasColumnType("varchar(30)");
@@ -380,7 +379,6 @@ namespace DataParser.Repository
             modelBuilder.Entity<file_error>().Property(p => p.updated_by).HasColumnType("int");
             modelBuilder.Entity<file_error>().Property(p => p.updated_date).HasColumnType("datetime");
             #endregion
-
             #region rre_info
             modelBuilder.Entity<rre_info>().ToTable("RREInfo");
             modelBuilder.Entity<rre_info>().Property(p => p.rre_id).HasColumnType("char(9)");
@@ -443,7 +441,6 @@ namespace DataParser.Repository
             modelBuilder.Entity<tin_info>().Property(p => p.tin_zip).HasColumnType("char(5)");
             modelBuilder.Entity<tin_info>().Property(p => p.tin_zip_ext).HasColumnType("char(4)");
             #endregion
-
             modelBuilder.Entity<claim_staging>().HasKey(c => c.id);
             modelBuilder.Entity<rre_info>().HasKey(c => c.rre_id);           
 
