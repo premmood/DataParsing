@@ -14,8 +14,6 @@ namespace DataParser
         {
             using (var mutex = new Mutex(false, "DataParser SingletonApp"))
             {
-                // TimeSpan.Zero to test the mutex's single state and
-                // return immediately without blocking
                 bool isAnotherInstanceOpen = !mutex.WaitOne(TimeSpan.Zero);
                 if (isAnotherInstanceOpen)
                 {
@@ -24,11 +22,7 @@ namespace DataParser
                     Console.WriteLine("******************************************************");
                     return;
                 }
-                #region Application       
-                ////JobStorage storage = new MemoryStorage(new MemoryStorageOptions());
-                ////var serverOptions = new BackgroundJobServerOptions() { ShutdownTimeout = TimeSpan.FromSeconds(1) };
-                ////JobStorage.Current = storage;
-                ////using (var server = new BackgroundJobServer(serverOptions, storage))
+                #region Application                   
                 var environmentName = Environment.GetEnvironmentVariable("ASPNETCORE_ENVIRONMENT");
                 var configuration = new ConfigurationBuilder()
                                     .AddJsonFile("appsettings.json", false)
