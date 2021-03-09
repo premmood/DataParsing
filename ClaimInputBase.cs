@@ -249,8 +249,6 @@ namespace DataParser
         public string claim_status { get; set; }
         public string account_id { get; set; }
         public string created_by { get; set; }
-
-
         #endregion
     }
 

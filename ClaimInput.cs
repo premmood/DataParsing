@@ -7,8 +7,7 @@ namespace DataParser
     [CustomClassValidation.CheckLengthType()]
     public class ClaimInput : ClaimInputBase
     {
-        #region Property
-       
+        #region Property       
         public string msa_amount_medical { get; set; }
         public string msa_amount_rx { get; set; }
         public string msa_vendor { get; set; }
@@ -69,6 +68,4 @@ namespace DataParser
         public string first_reported_injury_date { get; set; }
         #endregion
     }
-
-
 }
