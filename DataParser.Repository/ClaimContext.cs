@@ -379,7 +379,6 @@ namespace DataParser.Repository
             modelBuilder.Entity<file_error>().Property(p => p.updated_by).HasColumnType("int");
             modelBuilder.Entity<file_error>().Property(p => p.updated_date).HasColumnType("datetime");
             #endregion
-
             #region rre_info
             modelBuilder.Entity<rre_info>().ToTable("RREInfo");
             modelBuilder.Entity<rre_info>().Property(p => p.rre_id).HasColumnType("char(9)");
@@ -442,7 +441,6 @@ namespace DataParser.Repository
             modelBuilder.Entity<tin_info>().Property(p => p.tin_zip).HasColumnType("char(5)");
             modelBuilder.Entity<tin_info>().Property(p => p.tin_zip_ext).HasColumnType("char(4)");
             #endregion
-
             modelBuilder.Entity<claim_staging>().HasKey(c => c.id);
             modelBuilder.Entity<rre_info>().HasKey(c => c.rre_id);           
 
