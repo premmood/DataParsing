@@ -1,0 +1,319 @@
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\DataParser.exe
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\appsettings.Development.json
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\appsettings.json
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\appsettings.Production.json
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\appsettings.Testing.json
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\Properties\launchSettings.json
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\DataParser.deps.json
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\DataParser.runtimeconfig.json
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\DataParser.runtimeconfig.dev.json
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\DataParser.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\DataParser.pdb
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\Microsoft.Azure.Services.AppAuthentication.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\Microsoft.Bcl.AsyncInterfaces.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\Microsoft.Bcl.HashCode.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\Microsoft.Data.SqlClient.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\Microsoft.DotNet.PlatformAbstractions.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\Microsoft.EntityFrameworkCore.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\Microsoft.EntityFrameworkCore.Design.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\Microsoft.EntityFrameworkCore.Relational.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\Microsoft.Extensions.Caching.Abstractions.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\Microsoft.Extensions.Caching.Memory.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\Microsoft.Extensions.Configuration.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\Microsoft.Extensions.Configuration.Binder.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\Microsoft.Extensions.Configuration.Json.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\Microsoft.Extensions.DependencyInjection.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\Microsoft.Extensions.DependencyModel.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\Microsoft.Extensions.FileProviders.Physical.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\Microsoft.Extensions.Logging.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\Microsoft.Extensions.Logging.Abstractions.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\Microsoft.Extensions.Logging.Configuration.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\Microsoft.Extensions.Logging.Console.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\Microsoft.Extensions.Logging.Debug.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\Microsoft.Extensions.Options.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\Microsoft.Extensions.Primitives.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\Microsoft.Identity.Client.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\Microsoft.IdentityModel.Logging.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\Microsoft.IdentityModel.Protocols.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\Microsoft.IdentityModel.Tokens.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\Microsoft.Win32.SystemEvents.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\Newtonsoft.Json.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\RestSharp.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\Serilog.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\Serilog.Filters.Expressions.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\Serilog.Formatting.Compact.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\Serilog.Settings.Configuration.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\Serilog.Sinks.Console.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\Serilog.Sinks.File.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\Serilog.Sinks.MSSqlServer.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\Serilog.Sinks.PeriodicBatching.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\Serilog.Sinks.Seq.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\Spiralogics.Logger.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\Superpower.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\System.Collections.Immutable.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\System.Configuration.ConfigurationManager.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\System.Diagnostics.DiagnosticSource.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\System.Drawing.Common.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\System.IdentityModel.Tokens.Jwt.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\System.Runtime.Caching.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\System.Security.Cryptography.ProtectedData.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\System.Security.Permissions.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\System.Windows.Extensions.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\runtimes\win-arm64\native\sni.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\runtimes\win-x64\native\sni.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\runtimes\win-x86\native\sni.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\DataParser.Repository.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\Spiralogics.CSVParser.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\Spiralogics.EmailHelper.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\Spiralogics.XMLParser.dll
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\DataParser.Repository.pdb
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\Spiralogics.CSVParser.pdb
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\Spiralogics.EmailHelper.pdb
+E:\MedVal Project\DataParser----backup\bin\Debug\DataParser\Spiralogics.XMLParser.pdb
+E:\MedVal Project\DataParser----backup\obj\Debug\DataParser.csprojAssemblyReference.cache
+E:\MedVal Project\DataParser----backup\obj\Debug\DataParser.AssemblyInfoInputs.cache
+E:\MedVal Project\DataParser----backup\obj\Debug\DataParser.AssemblyInfo.cs
+E:\MedVal Project\DataParser----backup\obj\Debug\DataParser.csproj.CoreCompileInputs.cache
+E:\MedVal Project\DataParser----backup\obj\Debug\DataParser.csproj.CopyComplete
+E:\MedVal Project\DataParser----backup\obj\Debug\DataParser.dll
+E:\MedVal Project\DataParser----backup\obj\Debug\DataParser.pdb
+E:\MedVal Project\DataParser----backup\obj\Debug\DataParser.genruntimeconfig.cache
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\DataParser.exe
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\appsettings.Development.json
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\appsettings.json
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\appsettings.Production.json
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\appsettings.Testing.json
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\Properties\launchSettings.json
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\DataParser.deps.json
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\DataParser.runtimeconfig.json
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\DataParser.runtimeconfig.dev.json
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\DataParser.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\DataParser.pdb
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\Microsoft.Azure.Services.AppAuthentication.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\Microsoft.Bcl.AsyncInterfaces.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\Microsoft.Bcl.HashCode.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\Microsoft.Data.SqlClient.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\Microsoft.DotNet.PlatformAbstractions.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\Microsoft.EntityFrameworkCore.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\Microsoft.EntityFrameworkCore.Design.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\Microsoft.EntityFrameworkCore.Relational.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\Microsoft.Extensions.Caching.Abstractions.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\Microsoft.Extensions.Caching.Memory.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\Microsoft.Extensions.Configuration.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\Microsoft.Extensions.Configuration.Binder.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\Microsoft.Extensions.Configuration.Json.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\Microsoft.Extensions.DependencyInjection.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\Microsoft.Extensions.DependencyModel.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\Microsoft.Extensions.FileProviders.Physical.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\Microsoft.Extensions.Logging.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\Microsoft.Extensions.Logging.Abstractions.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\Microsoft.Extensions.Logging.Configuration.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\Microsoft.Extensions.Logging.Console.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\Microsoft.Extensions.Logging.Debug.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\Microsoft.Extensions.Options.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\Microsoft.Extensions.Primitives.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\Microsoft.Identity.Client.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\Microsoft.IdentityModel.Logging.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\Microsoft.IdentityModel.Protocols.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\Microsoft.IdentityModel.Tokens.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\Microsoft.Win32.SystemEvents.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\Newtonsoft.Json.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\RestSharp.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\Serilog.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\Serilog.Filters.Expressions.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\Serilog.Formatting.Compact.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\Serilog.Settings.Configuration.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\Serilog.Sinks.Console.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\Serilog.Sinks.File.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\Serilog.Sinks.MSSqlServer.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\Serilog.Sinks.PeriodicBatching.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\Serilog.Sinks.Seq.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\Spiralogics.Logger.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\Superpower.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\System.Collections.Immutable.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\System.Configuration.ConfigurationManager.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\System.Diagnostics.DiagnosticSource.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\System.Drawing.Common.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\System.IdentityModel.Tokens.Jwt.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\System.Runtime.Caching.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\System.Security.Cryptography.ProtectedData.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\System.Security.Permissions.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\System.Windows.Extensions.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\runtimes\win-arm64\native\sni.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\runtimes\win-x64\native\sni.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\runtimes\win-x86\native\sni.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\DataParser.Repository.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\Spiralogics.CSVParser.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\Spiralogics.EmailHelper.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\Spiralogics.XMLParser.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\DataParser.Repository.pdb
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\Spiralogics.CSVParser.pdb
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\Spiralogics.EmailHelper.pdb
+E:\MedVal Project\DataParser----Serilog BetterOne\bin\Debug\DataParser\Spiralogics.XMLParser.pdb
+E:\MedVal Project\DataParser----Serilog BetterOne\obj\Debug\DataParser.csprojAssemblyReference.cache
+E:\MedVal Project\DataParser----Serilog BetterOne\obj\Debug\DataParser.AssemblyInfoInputs.cache
+E:\MedVal Project\DataParser----Serilog BetterOne\obj\Debug\DataParser.AssemblyInfo.cs
+E:\MedVal Project\DataParser----Serilog BetterOne\obj\Debug\DataParser.csproj.CoreCompileInputs.cache
+E:\MedVal Project\DataParser----Serilog BetterOne\obj\Debug\DataParser.csproj.CopyComplete
+E:\MedVal Project\DataParser----Serilog BetterOne\obj\Debug\DataParser.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\obj\Debug\DataParser.pdb
+E:\MedVal Project\DataParser----Serilog BetterOne\obj\Debug\DataParser.genruntimeconfig.cache
+E:\MedVal Project\DataParser\bin\Debug\DataParser\DataParser.exe
+E:\MedVal Project\DataParser\bin\Debug\DataParser\appsettings.Development.json
+E:\MedVal Project\DataParser\bin\Debug\DataParser\appsettings.json
+E:\MedVal Project\DataParser\bin\Debug\DataParser\appsettings.Production.json
+E:\MedVal Project\DataParser\bin\Debug\DataParser\appsettings.Testing.json
+E:\MedVal Project\DataParser\bin\Debug\DataParser\Properties\launchSettings.json
+E:\MedVal Project\DataParser\bin\Debug\DataParser\DataParser.deps.json
+E:\MedVal Project\DataParser\bin\Debug\DataParser\DataParser.runtimeconfig.json
+E:\MedVal Project\DataParser\bin\Debug\DataParser\DataParser.runtimeconfig.dev.json
+E:\MedVal Project\DataParser\bin\Debug\DataParser\DataParser.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\DataParser.pdb
+E:\MedVal Project\DataParser\bin\Debug\DataParser\Hangfire.Core.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\Hangfire.MemoryStorage.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\Microsoft.Azure.Services.AppAuthentication.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\Microsoft.Bcl.AsyncInterfaces.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\Microsoft.Bcl.HashCode.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\Microsoft.Data.SqlClient.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\Microsoft.DotNet.PlatformAbstractions.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\Microsoft.EntityFrameworkCore.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\Microsoft.EntityFrameworkCore.Design.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\Microsoft.EntityFrameworkCore.Relational.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\Microsoft.Extensions.Caching.Abstractions.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\Microsoft.Extensions.Caching.Memory.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\Microsoft.Extensions.Configuration.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\Microsoft.Extensions.Configuration.Binder.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\Microsoft.Extensions.Configuration.Json.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\Microsoft.Extensions.DependencyInjection.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\Microsoft.Extensions.DependencyModel.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\Microsoft.Extensions.FileProviders.Physical.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\Microsoft.Extensions.Logging.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\Microsoft.Extensions.Logging.Abstractions.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\Microsoft.Extensions.Logging.Configuration.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\Microsoft.Extensions.Logging.Console.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\Microsoft.Extensions.Logging.Debug.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\Microsoft.Extensions.Options.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\Microsoft.Extensions.Primitives.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\Microsoft.Identity.Client.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\Microsoft.IdentityModel.Logging.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\Microsoft.IdentityModel.Protocols.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\Microsoft.IdentityModel.Tokens.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\Microsoft.Win32.SystemEvents.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\Newtonsoft.Json.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\RestSharp.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\Serilog.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\Serilog.Filters.Expressions.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\Serilog.Formatting.Compact.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\Serilog.Settings.Configuration.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\Serilog.Sinks.Console.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\Serilog.Sinks.File.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\Serilog.Sinks.MSSqlServer.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\Serilog.Sinks.PeriodicBatching.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\Serilog.Sinks.Seq.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\Spiralogics.Logger.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\Superpower.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\System.Collections.Immutable.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\System.Configuration.ConfigurationManager.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\System.Diagnostics.DiagnosticSource.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\System.Drawing.Common.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\System.IdentityModel.Tokens.Jwt.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\System.Runtime.Caching.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\System.Security.Cryptography.ProtectedData.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\System.Security.Permissions.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\System.Windows.Extensions.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\es\Hangfire.Core.resources.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\nl\Hangfire.Core.resources.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\pt-BR\Hangfire.Core.resources.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\zh-TW\Hangfire.Core.resources.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\zh\Hangfire.Core.resources.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\runtimes\win-arm64\native\sni.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\runtimes\win-x64\native\sni.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\runtimes\win-x86\native\sni.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\DataParser.Repository.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\Spiralogics.CSVParser.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\Spiralogics.EmailHelper.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\Spiralogics.XMLParser.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\DataParser.Repository.pdb
+E:\MedVal Project\DataParser\bin\Debug\DataParser\Spiralogics.CSVParser.pdb
+E:\MedVal Project\DataParser\bin\Debug\DataParser\Spiralogics.EmailHelper.pdb
+E:\MedVal Project\DataParser\bin\Debug\DataParser\Spiralogics.XMLParser.pdb
+E:\MedVal Project\DataParser\obj\Debug\DataParser.csprojAssemblyReference.cache
+E:\MedVal Project\DataParser\obj\Debug\DataParser.AssemblyInfoInputs.cache
+E:\MedVal Project\DataParser\obj\Debug\DataParser.AssemblyInfo.cs
+E:\MedVal Project\DataParser\obj\Debug\DataParser.csproj.CopyComplete
+E:\MedVal Project\DataParser\obj\Debug\DataParser.dll
+E:\MedVal Project\DataParser\obj\Debug\DataParser.pdb
+E:\MedVal Project\DataParser\obj\Debug\DataParser.genruntimeconfig.cache
+E:\MedVal Project\DataParser\bin\Debug\DataParser\Hangfire.SqlServer.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\System.Data.SqlClient.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\ca\Hangfire.Core.resources.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\fa\Hangfire.Core.resources.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\fr\Hangfire.Core.resources.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\pt-PT\Hangfire.Core.resources.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\pt\Hangfire.Core.resources.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+E:\MedVal Project\DataParser\bin\Debug\DataParser\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+E:\MedVal Project\DataParser\obj\Debug\DataParser.csproj.CoreCompileInputs.cache

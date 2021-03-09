@@ -1,0 +1,6 @@
+05-08-2020 09:28:46 	10 - The field RecordIdentifier is invalid.10 - The field SequenceId is invalid.
+11 - The field RecordIdentifier is invalid.11 - The field SequenceId is invalid.
+
+05-08-2020 09:30:32 	10 - The field RecordIdentifier is invalid.10 - The field SequenceId is invalid.
+11 - The field RecordIdentifier is invalid.11 - The field SequenceId is invalid.
+

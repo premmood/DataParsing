@@ -1,0 +1,97 @@
+C:\Users\Dell\Documents\Visual Studio 2019\applications\Spiralogics.SCHIP\DataParser\DataParser.Repository\bin\Debug\netstandard2.0\DataParser.Repository.deps.json
+C:\Users\Dell\Documents\Visual Studio 2019\applications\Spiralogics.SCHIP\DataParser\DataParser.Repository\bin\Debug\netstandard2.0\DataParser.Repository.dll
+C:\Users\Dell\Documents\Visual Studio 2019\applications\Spiralogics.SCHIP\DataParser\DataParser.Repository\bin\Debug\netstandard2.0\DataParser.Repository.pdb
+C:\Users\Dell\Documents\Visual Studio 2019\applications\Spiralogics.SCHIP\DataParser\DataParser.Repository\bin\Debug\netstandard2.0\CSVClaimParser.dll
+C:\Users\Dell\Documents\Visual Studio 2019\applications\Spiralogics.SCHIP\DataParser\DataParser.Repository\bin\Debug\netstandard2.0\DataFormatStandards.dll
+C:\Users\Dell\Documents\Visual Studio 2019\applications\Spiralogics.SCHIP\DataParser\DataParser.Repository\bin\Debug\netstandard2.0\CSVClaimParser.pdb
+C:\Users\Dell\Documents\Visual Studio 2019\applications\Spiralogics.SCHIP\DataParser\DataParser.Repository\bin\Debug\netstandard2.0\DataFormatStandards.pdb
+C:\Users\Dell\Documents\Visual Studio 2019\applications\Spiralogics.SCHIP\DataParser\DataParser.Repository\obj\Debug\netstandard2.0\DataParser.Repository.csprojAssemblyReference.cache
+C:\Users\Dell\Documents\Visual Studio 2019\applications\Spiralogics.SCHIP\DataParser\DataParser.Repository\obj\Debug\netstandard2.0\DataParser.Repository.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\Visual Studio 2019\applications\Spiralogics.SCHIP\DataParser\DataParser.Repository\obj\Debug\netstandard2.0\DataParser.Repository.AssemblyInfo.cs
+C:\Users\Dell\Documents\Visual Studio 2019\applications\Spiralogics.SCHIP\DataParser\DataParser.Repository\obj\Debug\netstandard2.0\DataParser.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\Visual Studio 2019\applications\Spiralogics.SCHIP\DataParser\DataParser.Repository\obj\Debug\netstandard2.0\DataParser.Repository.csproj.CopyComplete
+C:\Users\Dell\Documents\Visual Studio 2019\applications\Spiralogics.SCHIP\DataParser\DataParser.Repository\obj\Debug\netstandard2.0\DataParser.Repository.dll
+C:\Users\Dell\Documents\Visual Studio 2019\applications\Spiralogics.SCHIP\DataParser\DataParser.Repository\obj\Debug\netstandard2.0\DataParser.Repository.pdb
+C:\Users\Dell\Documents\Visual Studio 2019\applications\Spiralogics.SCHIP\DataParser\DataParser.Repository\bin\Debug\netstandard2.0\CSVParser.dll
+C:\Users\Dell\Documents\Visual Studio 2019\applications\Spiralogics.SCHIP\DataParser\DataParser.Repository\bin\Debug\netstandard2.0\CSVParser.pdb
+C:\Users\Dell\Documents\Visual Studio 2019\applications\SpiralogicsGlobalLibrary\DataParser\DataParser.Repository\bin\Debug\netstandard2.0\DataParser.Repository.deps.json
+C:\Users\Dell\Documents\Visual Studio 2019\applications\SpiralogicsGlobalLibrary\DataParser\DataParser.Repository\bin\Debug\netstandard2.0\DataParser.Repository.dll
+C:\Users\Dell\Documents\Visual Studio 2019\applications\SpiralogicsGlobalLibrary\DataParser\DataParser.Repository\bin\Debug\netstandard2.0\DataParser.Repository.pdb
+C:\Users\Dell\Documents\Visual Studio 2019\applications\SpiralogicsGlobalLibrary\DataParser\DataParser.Repository\bin\Debug\netstandard2.0\CSVClaimParser.dll
+C:\Users\Dell\Documents\Visual Studio 2019\applications\SpiralogicsGlobalLibrary\DataParser\DataParser.Repository\bin\Debug\netstandard2.0\CSVParser.dll
+C:\Users\Dell\Documents\Visual Studio 2019\applications\SpiralogicsGlobalLibrary\DataParser\DataParser.Repository\bin\Debug\netstandard2.0\DataFormatStandards.dll
+C:\Users\Dell\Documents\Visual Studio 2019\applications\SpiralogicsGlobalLibrary\DataParser\DataParser.Repository\bin\Debug\netstandard2.0\CSVClaimParser.pdb
+C:\Users\Dell\Documents\Visual Studio 2019\applications\SpiralogicsGlobalLibrary\DataParser\DataParser.Repository\bin\Debug\netstandard2.0\CSVParser.pdb
+C:\Users\Dell\Documents\Visual Studio 2019\applications\SpiralogicsGlobalLibrary\DataParser\DataParser.Repository\bin\Debug\netstandard2.0\DataFormatStandards.pdb
+C:\Users\Dell\Documents\Visual Studio 2019\applications\SpiralogicsGlobalLibrary\DataParser\DataParser.Repository\obj\Debug\netstandard2.0\DataParser.Repository.csprojAssemblyReference.cache
+C:\Users\Dell\Documents\Visual Studio 2019\applications\SpiralogicsGlobalLibrary\DataParser\DataParser.Repository\obj\Debug\netstandard2.0\DataParser.Repository.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\Visual Studio 2019\applications\SpiralogicsGlobalLibrary\DataParser\DataParser.Repository\obj\Debug\netstandard2.0\DataParser.Repository.AssemblyInfo.cs
+C:\Users\Dell\Documents\Visual Studio 2019\applications\SpiralogicsGlobalLibrary\DataParser\DataParser.Repository\obj\Debug\netstandard2.0\DataParser.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\Visual Studio 2019\applications\SpiralogicsGlobalLibrary\DataParser\DataParser.Repository\obj\Debug\netstandard2.0\DataParser.Repository.csproj.CopyComplete
+C:\Users\Dell\Documents\Visual Studio 2019\applications\SpiralogicsGlobalLibrary\DataParser\DataParser.Repository\obj\Debug\netstandard2.0\DataParser.Repository.dll
+C:\Users\Dell\Documents\Visual Studio 2019\applications\SpiralogicsGlobalLibrary\DataParser\DataParser.Repository\obj\Debug\netstandard2.0\DataParser.Repository.pdb
+C:\Users\Dell\Desktop\00000\1.Programming Related\DataParser\DataParser.Repository\bin\Debug\netstandard2.0\DataParser.Repository.deps.json
+C:\Users\Dell\Desktop\00000\1.Programming Related\DataParser\DataParser.Repository\bin\Debug\netstandard2.0\DataParser.Repository.dll
+C:\Users\Dell\Desktop\00000\1.Programming Related\DataParser\DataParser.Repository\bin\Debug\netstandard2.0\DataParser.Repository.pdb
+C:\Users\Dell\Desktop\00000\1.Programming Related\DataParser\DataParser.Repository\bin\Debug\netstandard2.0\CSVClaimParser.dll
+C:\Users\Dell\Desktop\00000\1.Programming Related\DataParser\DataParser.Repository\bin\Debug\netstandard2.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Dell\Desktop\00000\1.Programming Related\DataParser\DataParser.Repository\bin\Debug\netstandard2.0\CSVParser.dll
+C:\Users\Dell\Desktop\00000\1.Programming Related\DataParser\DataParser.Repository\bin\Debug\netstandard2.0\DataFormatStandards.dll
+C:\Users\Dell\Desktop\00000\1.Programming Related\DataParser\DataParser.Repository\bin\Debug\netstandard2.0\CSVClaimParser.pdb
+C:\Users\Dell\Desktop\00000\1.Programming Related\DataParser\DataParser.Repository\bin\Debug\netstandard2.0\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\Dell\Desktop\00000\1.Programming Related\DataParser\DataParser.Repository\bin\Debug\netstandard2.0\CSVParser.pdb
+C:\Users\Dell\Desktop\00000\1.Programming Related\DataParser\DataParser.Repository\bin\Debug\netstandard2.0\DataFormatStandards.pdb
+C:\Users\Dell\Desktop\00000\1.Programming Related\DataParser\DataParser.Repository\obj\Debug\netstandard2.0\DataParser.Repository.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\00000\1.Programming Related\DataParser\DataParser.Repository\obj\Debug\netstandard2.0\DataParser.Repository.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\00000\1.Programming Related\DataParser\DataParser.Repository\obj\Debug\netstandard2.0\DataParser.Repository.AssemblyInfo.cs
+C:\Users\Dell\Desktop\00000\1.Programming Related\DataParser\DataParser.Repository\obj\Debug\netstandard2.0\DataParser.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\00000\1.Programming Related\DataParser\DataParser.Repository\obj\Debug\netstandard2.0\DataParser.Repository.csproj.CopyComplete
+C:\Users\Dell\Desktop\00000\1.Programming Related\DataParser\DataParser.Repository\obj\Debug\netstandard2.0\DataParser.Repository.dll
+C:\Users\Dell\Desktop\00000\1.Programming Related\DataParser\DataParser.Repository\obj\Debug\netstandard2.0\DataParser.Repository.pdb
+E:\MedVal Project\DataParser\DataParser.Repository\bin\Debug\netstandard2.0\DataParser.Repository.deps.json
+E:\MedVal Project\DataParser\DataParser.Repository\bin\Debug\netstandard2.0\DataParser.Repository.dll
+E:\MedVal Project\DataParser\DataParser.Repository\bin\Debug\netstandard2.0\DataParser.Repository.pdb
+E:\MedVal Project\DataParser\DataParser.Repository\bin\Debug\netstandard2.0\CSVClaimParser.dll
+E:\MedVal Project\DataParser\DataParser.Repository\bin\Debug\netstandard2.0\CSVParser.dll
+E:\MedVal Project\DataParser\DataParser.Repository\bin\Debug\netstandard2.0\DataFormatStandards.dll
+E:\MedVal Project\DataParser\DataParser.Repository\bin\Debug\netstandard2.0\CSVClaimParser.pdb
+E:\MedVal Project\DataParser\DataParser.Repository\bin\Debug\netstandard2.0\CSVParser.pdb
+E:\MedVal Project\DataParser\DataParser.Repository\bin\Debug\netstandard2.0\DataFormatStandards.pdb
+E:\MedVal Project\DataParser\DataParser.Repository\obj\Debug\netstandard2.0\DataParser.Repository.AssemblyInfoInputs.cache
+E:\MedVal Project\DataParser\DataParser.Repository\obj\Debug\netstandard2.0\DataParser.Repository.AssemblyInfo.cs
+E:\MedVal Project\DataParser\DataParser.Repository\obj\Debug\netstandard2.0\DataParser.Repository.csproj.CoreCompileInputs.cache
+E:\MedVal Project\DataParser\DataParser.Repository\obj\Debug\netstandard2.0\DataParser.Repository.csproj.CopyComplete
+E:\MedVal Project\DataParser\DataParser.Repository\obj\Debug\netstandard2.0\DataParser.Repository.dll
+E:\MedVal Project\DataParser\DataParser.Repository\obj\Debug\netstandard2.0\DataParser.Repository.pdb
+E:\MedVal Project\DataParser----backup\DataParser.Repository\bin\Debug\netstandard2.0\DataParser.Repository.deps.json
+E:\MedVal Project\DataParser----backup\DataParser.Repository\bin\Debug\netstandard2.0\DataParser.Repository.dll
+E:\MedVal Project\DataParser----backup\DataParser.Repository\bin\Debug\netstandard2.0\DataParser.Repository.pdb
+E:\MedVal Project\DataParser----backup\DataParser.Repository\bin\Debug\netstandard2.0\CSVClaimParser.dll
+E:\MedVal Project\DataParser----backup\DataParser.Repository\bin\Debug\netstandard2.0\CSVParser.dll
+E:\MedVal Project\DataParser----backup\DataParser.Repository\bin\Debug\netstandard2.0\DataFormatStandards.dll
+E:\MedVal Project\DataParser----backup\DataParser.Repository\bin\Debug\netstandard2.0\CSVClaimParser.pdb
+E:\MedVal Project\DataParser----backup\DataParser.Repository\bin\Debug\netstandard2.0\CSVParser.pdb
+E:\MedVal Project\DataParser----backup\DataParser.Repository\bin\Debug\netstandard2.0\DataFormatStandards.pdb
+E:\MedVal Project\DataParser----backup\DataParser.Repository\obj\Debug\netstandard2.0\DataParser.Repository.AssemblyInfoInputs.cache
+E:\MedVal Project\DataParser----backup\DataParser.Repository\obj\Debug\netstandard2.0\DataParser.Repository.AssemblyInfo.cs
+E:\MedVal Project\DataParser----backup\DataParser.Repository\obj\Debug\netstandard2.0\DataParser.Repository.csproj.CoreCompileInputs.cache
+E:\MedVal Project\DataParser----backup\DataParser.Repository\obj\Debug\netstandard2.0\DataParser.Repository.csproj.CopyComplete
+E:\MedVal Project\DataParser----backup\DataParser.Repository\obj\Debug\netstandard2.0\DataParser.Repository.dll
+E:\MedVal Project\DataParser----backup\DataParser.Repository\obj\Debug\netstandard2.0\DataParser.Repository.pdb
+E:\MedVal Project\DataParser----backup\DataParser.Repository\obj\Debug\netstandard2.0\DataParser.Repository.csprojAssemblyReference.cache
+E:\MedVal Project\DataParser----Serilog BetterOne\DataParser.Repository\bin\Debug\netstandard2.0\DataParser.Repository.deps.json
+E:\MedVal Project\DataParser----Serilog BetterOne\DataParser.Repository\bin\Debug\netstandard2.0\DataParser.Repository.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\DataParser.Repository\bin\Debug\netstandard2.0\DataParser.Repository.pdb
+E:\MedVal Project\DataParser----Serilog BetterOne\DataParser.Repository\bin\Debug\netstandard2.0\CSVClaimParser.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\DataParser.Repository\bin\Debug\netstandard2.0\CSVParser.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\DataParser.Repository\bin\Debug\netstandard2.0\DataFormatStandards.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\DataParser.Repository\bin\Debug\netstandard2.0\CSVClaimParser.pdb
+E:\MedVal Project\DataParser----Serilog BetterOne\DataParser.Repository\bin\Debug\netstandard2.0\CSVParser.pdb
+E:\MedVal Project\DataParser----Serilog BetterOne\DataParser.Repository\bin\Debug\netstandard2.0\DataFormatStandards.pdb
+E:\MedVal Project\DataParser----Serilog BetterOne\DataParser.Repository\obj\Debug\netstandard2.0\DataParser.Repository.AssemblyInfoInputs.cache
+E:\MedVal Project\DataParser----Serilog BetterOne\DataParser.Repository\obj\Debug\netstandard2.0\DataParser.Repository.AssemblyInfo.cs
+E:\MedVal Project\DataParser----Serilog BetterOne\DataParser.Repository\obj\Debug\netstandard2.0\DataParser.Repository.csproj.CoreCompileInputs.cache
+E:\MedVal Project\DataParser----Serilog BetterOne\DataParser.Repository\obj\Debug\netstandard2.0\DataParser.Repository.csproj.CopyComplete
+E:\MedVal Project\DataParser----Serilog BetterOne\DataParser.Repository\obj\Debug\netstandard2.0\DataParser.Repository.dll
+E:\MedVal Project\DataParser----Serilog BetterOne\DataParser.Repository\obj\Debug\netstandard2.0\DataParser.Repository.pdb
+E:\MedVal Project\DataParser\DataParser.Repository\obj\Debug\netstandard2.0\DataParser.Repository.csprojAssemblyReference.cache

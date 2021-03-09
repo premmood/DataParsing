@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataParser", "DataParser.csproj", "{A04223EE-9F26-42AE-8043-DF1ED54920ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataParser.Repository", "DataParser.Repository\DataParser.Repository.csproj", "{63110912-9FA3-4C4C-8B8D-2FEBFB400ED5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A04223EE-9F26-42AE-8043-DF1ED54920ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A04223EE-9F26-42AE-8043-DF1ED54920ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A04223EE-9F26-42AE-8043-DF1ED54920ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A04223EE-9F26-42AE-8043-DF1ED54920ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63110912-9FA3-4C4C-8B8D-2FEBFB400ED5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63110912-9FA3-4C4C-8B8D-2FEBFB400ED5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63110912-9FA3-4C4C-8B8D-2FEBFB400ED5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63110912-9FA3-4C4C-8B8D-2FEBFB400ED5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45A60A95-FB07-4C64-B22A-97845B6A5299}
+	EndGlobalSection
+EndGlobal

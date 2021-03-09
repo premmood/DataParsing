@@ -1,0 +1,103 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <OutputPath Condition="'$(OutputPath)'=='' ">.\bin\Debug\DataParser</OutputPath>
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+    <AppendRuntimeIdentifierToOutputPath>false</AppendRuntimeIdentifierToOutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="DataParser.Repository\**" />
+    <EmbeddedResource Remove="DataParser.Repository\**" />
+    <None Remove="DataParser.Repository\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="ClaimInputValidations.cs" />
+    <Compile Remove="claim_staging.cs" />
+    <Compile Remove="DAL.cs" />
+    <Compile Remove="DIApp.cs" />
+    <Compile Remove="file_info.cs" />
+    <Compile Remove="IUnitOfWork.cs" />
+    <Compile Remove="LogActivity.cs" />
+    <Compile Remove="LogTest.cs" />
+    <Compile Remove="newService.cs" />
+    <Compile Remove="Parameters.cs" />
+    <Compile Remove="SettingConfig.cs" />
+    <Compile Remove="UnitOfWork.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Hangfire.SqlServer" Version="1.7.18" />
+    <PackageReference Include="microsoft.entityframeworkcore" Version="3.1.6" />
+    <PackageReference Include="microsoft.entityframeworkcore.design" Version="3.1.6">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="microsoft.entityframeworkcore.sqlserver" Version="3.1.6" />
+    <PackageReference Include="microsoft.entityframeworkcore.tools" Version="3.1.6">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="3.1.7" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.EnvironmentVariables" Version="3.1.7" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.FileExtensions" Version="3.1.7" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="3.1.7" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="3.1.7" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="3.1.7" />
+    <PackageReference Include="Microsoft.Extensions.FileProviders.Abstractions" Version="3.1.7" />
+    <PackageReference Include="Microsoft.Extensions.FileProviders.Physical" Version="3.1.7" />
+    <PackageReference Include="Microsoft.Extensions.Logging" Version="3.1.7" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Console" Version="3.1.7" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="3.1.7" />
+    <PackageReference Include="Microsoft.Extensions.Options" Version="3.1.7" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="RestSharp" Version="106.11.4" />
+    <PackageReference Include="spiralogics.logger" Version="1.0.0" />
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="4.7.0" />
+    <PackageReference Include="Hangfire.MemoryStorage" Version="1.7.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="DataParser.Repository\DataParser.Repository.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Spiralogics.CSVParser">
+      <HintPath>..\Spiralogics.CSVParser\Spiralogics.CSVParser\bin\Debug\netstandard2.0\Spiralogics.CSVParser.dll</HintPath>
+    </Reference>
+    <Reference Include="Spiralogics.EmailHelper">
+      <HintPath>..\Spiralogics.EmailHelper\Spiralogics.EmailHelper\bin\Debug\netstandard2.0\Spiralogics.EmailHelper.dll</HintPath>
+    </Reference>
+    <Reference Include="Spiralogics.Logger">
+      <HintPath>..\Spiralogics.Logger\Spiralogics.Logger\bin\Debug\netstandard2.0\Spiralogics.Logger.dll</HintPath>
+    </Reference>
+    <Reference Include="Spiralogics.XMLParser">
+      <HintPath>..\Spiralogics.XMLParser\Spiralogics.XMLParser\bin\Debug\netstandard2.0\Spiralogics.XMLParser.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="appsettings.Development.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="appsettings.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="appsettings.Production.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="appsettings.Testing.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Properties\launchSettings.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>
