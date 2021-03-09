@@ -31,17 +31,7 @@ namespace DataParser
                 .WriteTo.Console()
                // .WriteTo.File(logDirectory)
                 .CreateLogger();
-            // Console.WriteLine(_appSettings.CSVFilepath);
-            //var configuration = new ConfigurationBuilder()
-            //       .AddJsonFile("appsettings.json").Build();
-            //SettingConfig settingConfig = new SettingConfig();
-            //configuration.GetSection("ApplicationSettings").Bind(settingConfig);
-
-            //Log.Logger = new LoggerConfiguration().MinimumLevel.Verbose()
-            //                .WriteTo.Console()
-            //                .WriteTo.File(settingConfig.ApplicationLog, rollingInterval: RollingInterval.Day)
-            //                .CreateLogger();
-
+           
             EmailSender emailSender = new EmailSender();
             ReadClaim readClaim = new ReadClaim();
             readClaim.ParseHook += emailSender.SendMail;
